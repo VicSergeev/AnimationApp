@@ -14,11 +14,11 @@ struct Preset {
     
     var presetInfo: String {
     """
-    preset: \(presetName)
-    curve: \(presetCurve)
-    force: \(String(format: "%.2f", presetForce))
-    duration: \(String(format: "%.2f", presetDuration))
-    delay: \(String(format: "%.2f", presetDelay))
+        preset: \(presetName)
+        curve: \(presetCurve)
+        force: \(String(format: "%.2f", presetForce))
+        duration: \(String(format: "%.2f", presetDuration))
+        delay: \(String(format: "%.2f", presetDelay))
     """
     }
 

@@ -34,10 +34,3 @@ final class MainViewController: UIViewController {
     }
     
 }
-
-// MARK: Private Methods
-private extension MainViewController {
-    func setRandomPreset() {
-        
-    }
-}

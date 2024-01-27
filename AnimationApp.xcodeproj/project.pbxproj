@@ -65,7 +65,7 @@
 				1864BE8D2B6424FD00EF95B1 /* Services */,
 				1864BE8C2B6424E500EF95B1 /* Models */,
 				1864BE892B64248600EF95B1 /* Config */,
-				1864BE8B2B6424D500EF95B1 /* View Controllers */,
+				1864BE8B2B6424D500EF95B1 /* ViewControllers */,
 				1864BE8A2B6424B000EF95B1 /* Storyboards */,
 				1864BE7B2B64232700EF95B1 /* Assets.xcassets */,
 			);
@@ -91,12 +91,12 @@
 			path = Storyboards;
 			sourceTree = "<group>";
 		};
-		1864BE8B2B6424D500EF95B1 /* View Controllers */ = {
+		1864BE8B2B6424D500EF95B1 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
 				1864BE762B64232500EF95B1 /* MainViewController.swift */,
 			);
-			path = "View Controllers";
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 		1864BE8C2B6424E500EF95B1 /* Models */ = {
